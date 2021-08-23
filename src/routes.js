@@ -12,8 +12,7 @@ const Routes = () => {
         </Route>
         <Route path="/repositories" component={Repositories}/>
       </Switch>
-    </BrowserRouter>
-    
+    </BrowserRouter>    
   )
 }
 
